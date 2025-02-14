@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color grey
+color white
+drawable background
+drawable background1
+drawable bg_sign_in
+drawable bg_sign_up
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable jordan
+drawable nike
+id et_birth_date
+id main
+layout activity_main
+layout activity_sign_in
+layout activity_sign_up
+layout activity_splash
+layout activity_wait
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Appbangiay
+style Theme.Appbangiay
+xml backup_rules
+xml data_extraction_rules
